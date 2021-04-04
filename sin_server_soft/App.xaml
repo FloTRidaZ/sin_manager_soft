@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="sin_server_soft.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:sin_server_soft">
+
+</Application>
